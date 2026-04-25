@@ -10,6 +10,7 @@ import {
   Settings,
   LogOut,
   Bell,
+  MessageSquare,
   Search,
 } from "lucide-react";
 import { Logo } from "@/components/Logo";
