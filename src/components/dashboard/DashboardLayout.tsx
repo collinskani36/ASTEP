@@ -109,7 +109,7 @@ const AppSidebar = () => {
           <div className="flex items-center gap-3 p-2 rounded-xl bg-muted/50">
             <div className="w-9 h-9 rounded-full bg-secondary text-secondary-foreground flex items-center justify-center font-semibold text-sm">SL</div>
             <div className="flex-1 min-w-0">
-              <p className="text-sm font-medium truncate">Sara Lee</p>
+              <p className="text-sm font-medium truncate">Ledama</p>
               <p className="text-xs text-muted-foreground truncate">Team Lead</p>
             </div>
             <Link to="/" className="text-muted-foreground hover:text-foreground">
