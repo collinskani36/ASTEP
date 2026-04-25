@@ -129,7 +129,7 @@ const Overview = () => {
       <div className="space-y-6">
         <div className="flex justify-between items-center">
           <div>
-            <h2 className="text-2xl md:text-3xl font-display font-bold">Welcome back, Sara 👋</h2>
+            <h2 className="text-2xl md:text-3xl font-display font-bold">Welcome back, Ledama👋</h2>
             <p className="text-muted-foreground mt-1">Here's what's happening at Astep today.</p>
           </div>
         </div>
